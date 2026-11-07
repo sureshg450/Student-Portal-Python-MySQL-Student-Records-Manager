@@ -72,9 +72,7 @@ A mark below 35 in any subject results in an `F`. Otherwise, the grade is based 
 | 50–59 | D |
 | Below 50 | F |
 
-![Uploading image.png…]()
-
-
+<img width="929" height="232" alt="image" src="https://github.com/user-attachments/assets/716e0dab-0c6f-4dca-9994-ebb922c3f521" />
 
 ## Project files
 
