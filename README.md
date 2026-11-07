@@ -72,6 +72,9 @@ A mark below 35 in any subject results in an `F`. Otherwise, the grade is based 
 | 50–59 | D |
 | Below 50 | F |
 
+![Uploading image.png…]()
+
+
 ## Project files
 
 - `student_portal.py` — database setup, mark validation, grade calculation, and terminal output.
