@@ -1,0 +1,15 @@
+(.venv) sures@SMD:/mnt/c/Users/sures/Documents/Personal/Learning/SQL/Student_Portal$ python3 student_portal.py 
+MySQL authentication successful!
+Student records saved successfully!
+
+STUDENT PORTAL
+--------------------------------------------------------------------------------
+ID   Name         Class    English   Maths  Science   Total  Grade
+--------------------------------------------------------------------------------
+1    Arun         10-A          85      90       78     253      A
+2    Priya        10-A          95      92       96     283     A+
+3    Kumar        10-B          65      70       72     207      C
+4    Divya        10-B          45      55       60     160      D
+5    Ravi         10-A          30      80       75     185      F
+
+MySQL connection closed.
